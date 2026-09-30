@@ -1,0 +1,21 @@
+{
+  "name": "Yaadein — family, music and gentle games",
+  "short_name": "Yaadein",
+  "description": "A calm, familiar place for someone living with dementia: family faces with the sound of their names, old songs, naat sharif and gentle games. English, Hindi, Urdu and Memoni.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#faf9f5",
+  "theme_color": "#faf9f5",
+  "lang": "en",
+  "dir": "auto",
+  "categories": ["health", "lifestyle", "music", "games"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "icons/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
